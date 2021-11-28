@@ -1,3 +1,6 @@
-# Comp576
+# Comp576 Final Project
 
-## Team: Zixuan Wang, Jiayi Du, Shicong Wang
+## Team member: Shicong Wang, Zixuan Wang, Jiayi Du
+
+## Data Source from Kaggle:
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
